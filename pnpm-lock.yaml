@@ -245,8 +245,8 @@ importers:
         specifier: ^0.6.2
         version: 0.6.2(amqplib@0.10.3)
       '@sapphire/discord-utilities':
-        specifier: ^3.2.2
-        version: 3.2.2
+        specifier: ^3.2.3
+        version: 3.2.3
       '@sapphire/pieces':
         specifier: ^4.2.2
         version: 4.2.2
@@ -1202,11 +1202,11 @@ packages:
       '@sapphire/utilities': 3.15.3
     dev: false
 
-  /@sapphire/discord-utilities@3.2.2:
-    resolution: {integrity: sha512-lJZMV89wt2Vuq9Sra44rK9gONrLpL6INd9CEI01r+lGdbix+EWceQR7SLESzw1+oD12v6gfMOUQUjgy0mFUk1g==}
+  /@sapphire/discord-utilities@3.2.3:
+    resolution: {integrity: sha512-tGR1gp7djEEFuIFcj4fa0kaaJ/+sfm9UHHav6hSCvwytP33tUAIiH7hJhgbM/B7/WWCiwDIZXGBdKg9Wwc0TdA==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
     dependencies:
-      discord-api-types: 0.37.70
+      discord-api-types: 0.37.73
     dev: false
 
   /@sapphire/duration@1.1.2:
@@ -2224,6 +2224,10 @@ packages:
 
   /discord-api-types@0.37.70:
     resolution: {integrity: sha512-8EtfZR0KwOK+yP5q/llWILdUAPmGmF1LmcVUYf7+gtGigz2pu6WR38ZN+IWtMzohY1Ujl2u3KOdbFvrEz9EC8w==}
+    dev: false
+
+  /discord-api-types@0.37.73:
+    resolution: {integrity: sha512-mi915PBUxF1G233EwHKNegNAF/tVfiSRN9+hKwu0G3NpbtLXvWUxCuCjgSyY+QmQ6/Hvpqm0xs5HxzfvhAS20A==}
     dev: false
 
   /doctrine@2.1.0:
