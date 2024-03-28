@@ -34,14 +34,14 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.7.0",
-		"@nezuchan/decorators": "^0.2.0",
+		"@nezuchan/decorators": "^0.3.0",
 		"@nezuchan/i18n": "^3.0.0",
 		"@sapphire/pieces": "4.2.2",
 		"tslib": "^2.6.2"
 	},
 	"devDependencies": {
 		"@hazmi35/eslint-config": "^13.3.1",
-		"@types/node": "^20.11.19",
+		"@types/node": "^20.11.30",
 		"@typescript-eslint/eslint-plugin": "^7.0.2",
 		"@typescript-eslint/parser": "^7.0.2",
 		"eslint": "8.56.0",
